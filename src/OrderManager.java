@@ -1,6 +1,6 @@
 import java.util.ArrayList;
 import java.util.List;
-// Making a new conflict
+// Making a new conflict master branch
 public class OrderManager {
     private List<Order> orders = new ArrayList<>();
 
